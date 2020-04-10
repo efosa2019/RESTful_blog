@@ -1,0 +1,18 @@
+{
+  "name": "restful-blog",
+  "version": "1.0.0",
+  "description": "A simple RESTful API blog",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Efosa Alohan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "errorhandler": "1.5.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
